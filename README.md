@@ -1,4 +1,4 @@
-# HEAL_code
+<h1 align = "center"> HEAL Code </h1>
 
 <a href="url"><img src="/images/logo.png" align="left" height="500" width="500" ></a>
 <br></br>
